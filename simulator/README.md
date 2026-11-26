@@ -6,8 +6,10 @@ page-table placement).
 | part | origin |
 |---|---|
 | `gpu-simulator/` | [Accel-Sim](https://github.com/accel-sim/accel-sim-framework) `d7f397a` + changes for this work |
-| `gpu-simulator/gpgpu-sim/` | [GPGPU-Sim distribution](https://github.com/gpgpu-sim/gpgpu-sim_distribution) with its full history + changes for this work |
+| `gpu-simulator/gpgpu-sim/` | [GPGPU-Sim distribution](https://github.com/gpgpu-sim/gpgpu-sim_distribution) `a4ce3fe` + changes for this work |
 | `gpu-simulator/extern/pybind11/` | pybind11 `34566e1` (vendored) |
+
+This is a modified version of Accel-Sim and GPGPU-Sim; it is not affiliated with or endorsed by their authors.
 
 ## Build
 ```bash
